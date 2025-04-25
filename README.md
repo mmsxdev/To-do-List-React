@@ -1,9 +1,19 @@
-# React + Vite
+---
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# ⚛️ React + Vite Template
 
-Currently, two official plugins are available:
+Este projeto é uma base mínima para rodar **React com Vite**, incluindo **Hot Module Replacement (HMR)** e regras básicas de **ESLint** para qualidade de código.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-- Link para vizualização: (https://to-do-list-react-weld-xi.vercel.app/)
+## 🚀 Tecnologias
+
+- React
+- Vite
+- ESLint
+- SWC ou Babel
+
+### 🔗 Link para visualização:
+[👉 To-Do List com React + Vite](https://to-do-list-react-weld-xi.vercel.app/)
+
+---
+
+Feito com 💻 e ☕ por **Miguel Melo Santos**
